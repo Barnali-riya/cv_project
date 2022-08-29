@@ -1,0 +1,282 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: LightGray;
+	font-family: Italic;
+}
+
+	
+.container{
+	max-width: 1000px;
+	background-color: #d8bfd8;
+	margin:  0 auto;
+	padding: 50px;
+}
+.profile{
+	height:120px; 
+	width:100px;
+	border: 3px solid gray;
+	border-radius: 30%;
+	float: left;
+}
+.bio{
+	float: left;
+	padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+	color: #A52A2A
+	
+}
+
+.link{
+	float: right;
+
+}
+
+.link {
+	float:  right;
+	padding: 30px;
+
+}
+
+.link a {
+	text-decoration:  none;
+	color: teal;
+	font-weight: bold;
+
+}
+
+.link a:hover{
+	text-decoration: underline;
+	color: red;
+	cursor: pointer;
+
+}
+
+.div-clear{
+	clear: both;
+}
+hr{
+	border:solid black 2px;
+	width: 100%;
+	margin: 20px auto;
+	border-bottom: none;
+
+}
+
+.left-div{
+	width: 30%;
+	float: left;
+}
+
+.right-div{
+	width: 70%;
+	float: left;
+}
+
+h4{
+	color: black;
+	padding: 1px;
+}
+
+
+.common-hr{
+	border: solid black 1px;
+	border-bottom: none;
+	width: 100%;
+	margin: 20px auto;
+}
+
+.left{
+	width: 30%;
+	float: left;
+}
+
+.right{
+	width: 70%;
+	float: left;
+}
+
+.common{
+	border: solid black 1px;
+	border-bottom: none;
+	width: 100%;
+	margin: 20px auto;
+}
+
+.lft{
+	width: 30%;
+	float: left;
+
+}
+.rgt{
+	width: 70%;
+	float: left;
+}
+
+.tech{
+      
+      width: 30%;
+      float: left;
+
+}
+
+.sub{
+	width: 30%;
+	float: left;
+}
+
+
+.cmn{
+	border: solid black 1px;
+	border-bottom: none;
+	width: 100%;
+	margin: 20px auto;
+}
+
+.L{
+	width: 30%;
+	float: left;
+}
+.R{
+	width: 70%;
+	float: left;
+}
+.HR{
+
+	border:solid black 1px;
+	border-bottom:none;
+	width:100%;
+	margin: 20px auto;
+
+}
+
+.clr{
+	clear: both;
+}
+
+.lf{
+	width: 30%;
+	float: left;
+}
+
+.rt{
+	width: 70%;
+	float: left;
+	margin-bottom:10px;
+
+
+}
+
+.h{
+
+	border:solid black 1px;
+	border-bottom:none;
+	width:100%;
+	margin: 20px auto;
+
+}
+
+.cl{
+	clear: both;
+}
+table,th,td{
+	border: 1px solid black;
+	border-radius:5%;
+	text-align: center;
+
+	}
+
+	table{
+		height: 100px;
+		width: 300px;
+		margin: 20px auto;
+	}
+
+	.hv:hover{
+		color: red;
+	}
+
+	.hv{
+		background-color: #808000;
+		color: white;
+	}
+
+	.v{
+		background-color: #008080;
+		color: white;
+	}
+	.v:hover{
+		color:red;
+	}
+
+	.section:hover{
+		color:blue;
+		cursor: pointer;
+	}
+
+	.foot{
+		background-color: black;
+		text-align: center;
+		padding: 10px;
+	}
+
+	.foot a{
+		color: white;
+		margin: 20px;
+		text-decoration: none;
+	}
+	.foot a:hover{
+		color:yellow;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
